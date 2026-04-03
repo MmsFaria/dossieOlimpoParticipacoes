@@ -1,5 +1,4 @@
-<br><br>
----
+<br>
 
 ## 🏢 IncomeView — Repositório de Projetos
 
@@ -9,8 +8,6 @@ O objetivo deste espaço é centralizar código, documentação e experimentos u
 Acesse: https://github.com/IncomeView
 
 <br><br>
- ---
-
 ## 🌱 Filosofia da IncomeView
 A IncomeView é guiada por três princípios que moldam nossa forma de pensar, construir e entregar valor.
 ### 🧭 Moralidade como fundamento das decisões
@@ -34,9 +31,8 @@ Esse tripé orienta tudo o que fazemos:
 - **Tecnologia** - escala, automação e inteligência.
 
 <br><br>
----
-
 ## 🔗 Contatos
 
 - LinkedIn: https://www.linkedin.com/in/moacirfaria
 
+<br><br>
