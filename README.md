@@ -3,15 +3,16 @@
 # ⭐ **Dossiê Profissional – Olimpo Participações**   
 
 
-> ## 📘 **Analista de Dados Sênior / FP&A / Data Engineer – Grupo Empresarial (40+ CNPJs)**
-> - **Atuação**
->     - estratégica
->    - técnica
->    - executiva 
->- **na construção**
->    - arquitetura de dados
->    - automação financeira
->    - governança corporativa  
+## 📘 **Analista de Dados Sênior / FP&A / Data Engineer**
+>    - **Grupo Empresarial (40+ CNPJs)**
+>        - **Atuação**
+>            - estratégica  
+>            - técnica  
+>            - executiva   
+>        - **na construção**
+>            - arquitetura de dados
+>            - automação financeira
+>            - governança corporativa  
 
 
 <br>
